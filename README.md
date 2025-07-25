@@ -14,4 +14,8 @@ Netflix titles dataset from Kaggle
 ## Tools Used
 - Google Colab
 - Python (Pandas,NumPy,Matplotlib, Seaborn)
-- SQL 
+- SQL
+
+## Built a Power BI dashboard to represent the Data Analytics
+
+
